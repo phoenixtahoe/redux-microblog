@@ -1,0 +1,18 @@
+main {
+    background-color: #fff;
+    width: 100vw;
+    padding-top: 15vh;
+    height: calc(100vh - 56px);
+}
+
+.card {
+  max-width: 20vw;
+}
+
+p {
+  letter-spacing: 0.2px;
+}
+
+.card-header {
+  text-transform: capitalize;
+}
